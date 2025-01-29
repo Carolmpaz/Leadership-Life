@@ -15,8 +15,9 @@
 ---
 
 ## **📄 Descrição do Projeto**  
-> Este agente apresenta uma versão simplificada de análise de pitch como exemplo básico para o Hackathon.  
-> É esperado que as equipes desenvolvam uma solução mais robusta, isso é apenas um exemplo para inspiração.
+ <h4>O propósito do nosso projeto é criar um agente que seja focado na parte de comunicação, na liderança, e seus subtópicos. Além disso, Este agente tem como principal objetivo oferecer orientações valiosas sobre comunicação eficaz para líderes, ajudando-os a guiar pessoas e empresas com clareza e coerência. Suas recomendações abrangem desde insights estratégicos até exemplos práticos, proporcionando uma abordagem completa para aprimorar a liderança por meio da comunicação.<h4>
+ <h4>Nosso programa se distingue do ChatGPT e de outras ferramentas semelhantes pelo foco na resolução de problemas específicos de comunicação. O agente guiará os usuários, oferecendo respostas direcionadas às dificuldades apresentadas. Por meio da explicação teórica das soluções, com técnicas para a resolução dos problemas de comunicação, além da aplicação prática desses conceitos em situações recorrentes do cotidiano profissional. Nesse sentido, buscamos ajudar lideres a cultivar uma comunicação com seus parceiros.</h4>
+
 
 ---
 
