@@ -4,13 +4,13 @@
 [Análise do agente]()
 
 ## **👥 Integrantes do Grupo**  
-- 🧑‍💻 [Alexsander Barbosa](#)  
+- 🧑‍💻 [Alexsander Barbosa](https://github.com/Alex-Silva2004)  
 - 👩‍💻 [Breno Silva](https://github.com/brenofgsilva)  
-- 👨‍🔬 [Caroline Paz](#)  
-- 👩‍🔬 [Isaac Souza](#)  
-- 👨‍🎨 [João Aidar](#)  
-- 👩‍🎨 [Nicholas Milani](#)  
-- 🧑‍🎓 [Sarah Araujo](#)  
+- 👨‍🔬 [Caroline Paz](https://github.com/Carolmpaz)  
+- 👩‍🔬 [Isaac Souza](https://gitHub.com/IsaacSOuzaSanTOS)  
+- 👨‍🎨 [João Aidar](https://gitHub.com/joaoaidar)  
+- 👩‍🎨 [Nicholas Milani](https://github.com/nicholasmillani)  
+- 🧑‍🎓 [Sarah Araujo](https://gitHub.com/SarahAraujoDuarte)  
 
 ---
 
