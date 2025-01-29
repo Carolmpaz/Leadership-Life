@@ -5,7 +5,7 @@
 
 ## **👥 Integrantes do Grupo**  
 - 🧑‍💻 [Alexsander Barbosa](#)  
-- 👩‍💻 [Breno Silva](#)  
+- 👩‍💻 [Breno Silva](https://github.com/brenofgsilva)  
 - 👨‍🔬 [Caroline Paz](#)  
 - 👩‍🔬 [Isaac Souza](#)  
 - 👨‍🎨 [João Aidar](#)  
