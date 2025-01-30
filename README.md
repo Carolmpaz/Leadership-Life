@@ -1,7 +1,7 @@
 # Leadership-Life
 
 ### **🔗 Link do Agente GPT:**  
-[Agente](https://chatgpt.com/g/g-679af299850481918a86a8b40bf9f0bd-ia-test)
+[Agente](https://chatgpt.com/g/g-679af299850481918a86a8b40bf9f0bd-talkmate)
 
 ## **👥 Integrantes do Grupo**  
 - 🧑‍💻 [Alexsander Barbosa](https://github.com/Alex-Silva2004)  
