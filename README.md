@@ -5,18 +5,18 @@
 
 ## **👥 Integrantes do Grupo**  
 - 🧑‍💻 [Alexsander Barbosa](https://github.com/Alex-Silva2004)  
-- 👩‍💻 [Breno Silva](https://github.com/brenofgsilva)  
-- 👨‍🔬 [Caroline Paz](https://github.com/Carolmpaz)  
-- 👩‍🔬 [Isaac Souza](https://gitHub.com/IsaacSOuzaSanTOS)  
-- 👨‍🎨 [João Aidar](https://gitHub.com/joaoaidar)  
-- 👩‍🎨 [Nicholas Milani](https://github.com/nicholasmillani)  
-- 🧑‍🎓 [Sarah Araujo](https://gitHub.com/SarahAraujoDuarte)  
+- 🧑‍💻 [Breno Silva](https://github.com/brenofgsilva)  
+- 👩‍💻 [Caroline Paz](https://github.com/Carolmpaz)  
+- 🧑‍💻 [Isaac Souza](https://gitHub.com/IsaacSOuzaSanTOS)  
+- 🧑‍💻 [João Aidar](https://gitHub.com/joaoaidar)  
+- 🧑‍💻 [Nicholas Milani](https://github.com/nicholasmillani)  
+- 👩‍💻 [Sarah Araujo](https://gitHub.com/SarahAraujoDuarte)  
 
 ---
 
 ## **📄 Descrição do Projeto**  
- <h4>O propósito do nosso projeto é criar um agente que seja focado na parte de comunicação, na liderança, e seus subtópicos. Além disso, Este agente tem como principal objetivo oferecer orientações valiosas sobre comunicação eficaz para líderes, ajudando-os a guiar pessoas e empresas com clareza e coerência. Suas recomendações abrangem desde insights estratégicos até exemplos práticos, proporcionando uma abordagem completa para aprimorar a liderança por meio da comunicação.<h4>
- <h4>Nosso programa se distingue do ChatGPT e de outras ferramentas semelhantes pelo foco na resolução de problemas específicos de comunicação. O agente guiará os usuários, oferecendo respostas direcionadas às dificuldades apresentadas. Por meio da explicação teórica das soluções, com técnicas para a resolução dos problemas de comunicação, além da aplicação prática desses conceitos em situações recorrentes do cotidiano profissional. Nesse sentido, buscamos ajudar lideres a cultivar uma comunicação com seus parceiros.</h4>
+ <p>O propósito do nosso projeto é criar um agente que seja focado na parte de comunicação, na liderança, e seus subtópicos. Além disso, Este agente tem como principal objetivo oferecer orientações valiosas sobre comunicação eficaz para líderes, ajudando-os a guiar pessoas e empresas com clareza e coerência. Suas recomendações abrangem desde insights estratégicos até exemplos práticos, proporcionando uma abordagem completa para aprimorar a liderança por meio da comunicação.<p>
+ <p>Nosso programa se distingue do ChatGPT e de outras ferramentas semelhantes pelo foco na resolução de problemas específicos de comunicação. O agente guiará os usuários, oferecendo respostas direcionadas às dificuldades apresentadas. Por meio da explicação teórica das soluções, com técnicas para a resolução dos problemas de comunicação, além da aplicação prática desses conceitos em situações recorrentes do cotidiano profissional. Nesse sentido, buscamos ajudar lideres a cultivar uma comunicação com seus parceiros.</p>
 
 
 ---
@@ -68,14 +68,9 @@
 
 ## **📚 Bases de Conhecimento**  
 
-### **📘 Referências Utilizadas:**  
-- 📗 _[Guia de boas práticas em pitches de negócios]_  
-- 📙 _[Estratégias para engajamento em apresentações]_  
-- 📕 _[Como estruturar modelos de negócios sustentáveis]_  
-
-### **📖 Documentações Complementares:**  
-- 🔗 [Guia prático para startups](#)  
-- 🔗 [Técnicas de storytelling para negócios](#)  
+### **📖 Referências Utilizadas:**  
+- 🔗 [Estatísticas de comunicação no local de trabalho para 2024](https://pumble.com/learn/pt/communication/communication-statistics/#:~:text=43%25%20deles%20afirmam%20que%20a,impacto%20financeiro%20da%20m%C3%A1%20comunica%C3%A7%C3%A3o)  
+- 🔗 [Quais são os principais desafios de comunicação na liderança? ](https://www.alura.com.br/empresas/artigos/quais-sao-os-principais-desafios-de-comunicacao-na-lideranca?srsltid=AfmBOoqVV2iadXq788_jljRSj5yjcNZvgqgk8CcmuepSmUpcX7-SyGfh)  
 - 🔗 [Critérios de avaliação em hackathons](#)  
 
 ---
