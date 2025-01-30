@@ -50,8 +50,24 @@ O passo a passo é destacado em 4 pontos, sendo eles: </p>
 - 📚 [Análise dos problemas enfrentados pela má comunicação: aprofundamneto e soluções]()
 
 ### **🔎 Referências Utilizadas:**  
-- 🔗 [Estatísticas de comunicação no local de trabalho para 2024](https://pumble.com/learn/pt/communication/communication-statistics/#:~:text=43%25%20deles%20afirmam%20que%20a,impacto%20financeiro%20da%20m%C3%A1%20comunica%C3%A7%C3%A3o)  
-- 🔗 [Quais são os principais desafios de comunicação na liderança? ](https://www.alura.com.br/empresas/artigos/quais-sao-os-principais-desafios-de-comunicacao-na-lideranca?srsltid=AfmBOoqVV2iadXq788_jljRSj5yjcNZvgqgk8CcmuepSmUpcX7-SyGfh)  
+- 🔗 PUMBLE. **Communication statistics**. Disponível em: https://pumble.com/learn/pt/communication/communication-statistics/#:~:text=43%25%20deles%20afirmam%20que%20a,impacto%20financeiro%20da%20m%C3%A1%20comunica%C3%A7%C3%A3o. Acesso em: 29 jan. 2025.
+
+- 🔗 ALURA. **Quais são os principais desafios de comunicação na liderança?** Disponível em: https://www.alura.com.br/empresas/artigos/quais-sao-os-principais-desafios-de-comunicacao-na-lideranca?srsltid=AfmBOoqVV2iadXq788_jljRSj5yjcNZvgqgk8CcmuepSmUpcX7-SyGfh. Acesso em: 29 jan. 2025.
+
+- 🔗 **WILLIAMS, Mark.** What does it mean to be a leader? Understanding the qualities and skills. *LinkedIn*, [2023]. Disponível em: https://www.linkedin.com/pulse/what-does-mean-leader-understanding-qualities-skills-mark-williams. Acesso em: 28 jan. 2025.
+
+- 🔗 **FIERCE INC.** *PR 2011 Workplace Collaboration Survey*. 2020. Disponível em: https://fierceinc.com/wp-content/uploads/2020/06/PR___2011_Workplace_Collaboration_Survey___Fierce_Inc__.pdf. Acesso em: 29 jan. 2025.
+
+- 🔗 **PENSER CONSULTORIA.** *Liderança ruim: como ela impacta as equipes e o desempenho organizacional*. Disponível em: https://penser.com.br/lideranca-ruim/. Acesso em: 29 jan. 2025
+
+- 🔗 **NOMUS CONSULTORIA.** *Erros de liderança: como evitá-los na indústria*. Disponível em: https://www.nomus.com.br/blog-industrial/erros-de-lideranca/. Acesso em: 29 jan. 2025.
+
+- 🔗 **RAMO CONSULTORIA.** *Falhas na liderança: como problemas de liderança podem afetar negativamente a cultura corporativa e o desempenho da empresa*. Disponível em: https://ramo.com.br/falhas-na-lideranca-como-problemas-de-lideranca-podem-afetar-negativamente-a-cultura-corporativa-e-o-desempenho-da-empresa/. Acesso em: 29 jan. 2025.
+
+- 🔗 **GALÍCIA EDUCAÇÃO.** *Técnicas de comunicação: o guia completo para melhorar suas habilidades*. Disponível em: https://www.galiciaeducacao.com.br/blog/tecnicas-de-comunicacao-o-guia-completo-para-melhorar-suas-habilidades/. Acesso em: 29 jan. 2025.
+
+- 🔗 **OFFICE FOR NATIONAL STATISTICS (ONS).** Business demography, 2021. *ONS*, 2022. Disponível em: https://www.ons.gov.uk/businessindustryandtrade/business/activitysizeandlocation/bulletins/businessdemography/2021#business-birth-and-death-rates-2016-to-2021. Acesso em: 28 jan. 2025.
+ 
  
 
 ---
