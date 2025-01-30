@@ -73,5 +73,6 @@ O passo a passo é destacado em quatro pontos, sendo eles:
 
 - 🔗 **OFFICE FOR NATIONAL STATISTICS (ONS).** Business demography, 2021. *ONS*, 2022. Disponível em: https://www.ons.gov.uk/businessindustryandtrade/business/activitysizeandlocation/bulletins/businessdemography/2021#business-birth-and-death-rates-2016-to-2021. Acesso em: 28 jan. 2025.
 
+- 🔗 **AUSTRALIAN CENTRE FOR BUSINESS GROWTH.** New study reveals why Australian SMEs fail. Australian Centre for Business Growth, 2018. Disponível em: https://centreforbusinessgrowth.com/news-and-events/new-study-reveals-why-australian-smes-fail/. Acesso em: 30 jan. 2025.
 
 ---
