@@ -9,14 +9,15 @@
 - 👩‍💻 [Caroline Paz](https://github.com/Carolmpaz)  
 - 🧑‍💻 [Isaac Souza](https://gitHub.com/IsaacSOuzaSanTOS)  
 - 🧑‍💻 [João Aidar](https://gitHub.com/joaoaidar)  
-- 🧑‍💻 [Nicholas Milani](https://github.com/nicholasmillani)  
+- 🧑‍💻 [Nicholas Millani](https://github.com/nicholasmillani)  
 - 👩‍💻 [Sarah Araujo](https://gitHub.com/SarahAraujoDuarte)  
 
 ---
 
 ## **📄 Descrição do Projeto**  
- <p>O propósito do nosso projeto é criar um agente que seja focado na parte de comunicação, na liderança, e seus subtópicos. Além disso, Este agente tem como principal objetivo oferecer orientações valiosas sobre comunicação eficaz para líderes, ajudando-os a guiar pessoas e empresas com clareza e coerência. Suas recomendações abrangem desde insights estratégicos até exemplos práticos, proporcionando uma abordagem completa para aprimorar a liderança por meio da comunicação.<p>
- <p>Nosso programa se distingue do ChatGPT e de outras ferramentas semelhantes pelo foco na resolução de problemas específicos de comunicação. O agente guiará os usuários, propondo reflexões que contribuam na analisé do contexto no qual ele está inserido. Por meio da análise da problemática enfrentada pelo usuário, o agente encontra as melhores soluções para ele, incluindo explicação teórica das soluções, com técnicas para a resolução dos problemas de comunicação, aplicação prática desses conceitos em situações recorrentes do cotidiano profissional e uma checklist que auxilia na organização e na avaliação do progresso do líder. Nesse sentido, buscamos ajudar lideres a cultivar uma comunicação com seus parceiros, visto que ela é a base para a resolução dos problemas enfrentados em uma liderança.</p>
+ <p>O propósito do nosso projeto é criar um agente focado na comunicação, na liderança e em seus subtópicos. Além disso, este agente tem como principal objetivo oferecer orientações valiosas sobre comunicação eficaz para líderes, ajudando-os a guiar pessoas e empresas com clareza e coerência. Suas recomendações abrangem desde insights estratégicos até exemplos práticos, proporcionando uma abordagem completa para aprimorar a liderança por meio da comunicação.
+
+Nosso programa se distingue do ChatGPT e de outras ferramentas semelhantes pelo foco na resolução de problemas específicos de comunicação. O agente guiará os usuários, propondo reflexões que contribuam na análise do contexto no qual estão inseridos. Por meio da análise da problemática enfrentada pelo usuário, o agente encontra as melhores soluções para ele, incluindo explicações teóricas das soluções, técnicas para a resolução dos problemas de comunicação, aplicação prática desses conceitos em situações recorrentes do cotidiano profissional e uma checklist que auxilia na organização e na avaliação do progresso do líder. Nesse sentido, buscamos ajudar líderes a cultivar uma comunicação eficaz com seus parceiros, visto que ela é a base para a resolução dos problemas enfrentados em uma liderança.</p>
 
 ## **⚙️ Funcionamento**  
 <p>O agente é pautado na exexução de alguns passos, para que assim o líder possa aos poucos entender em que ele está errado e qual é a mehlor forma de superar esses erros. 
